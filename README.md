@@ -1,3 +1,9 @@
+# UML(Unified Modeling Language)
+ ## Why
+* ### Needed standarized diagram that everyone can understand.
+ ## What
+* ### Several types of UML each has it's purpose of usage.
+ ## How
 # Activity diagram
 * ## Why
 * ## What
