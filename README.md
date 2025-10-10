@@ -24,3 +24,14 @@
 * ## Why
 * ## What
 * ## How
+
+* # State machine diagram
+* ## Why
+* ## What
+* ## How
+
+* 
+* #  Sequence diagram
+* ## Why
+* ## What
+* ## How
