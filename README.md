@@ -8,6 +8,11 @@
 # Activity diagram
 * ## Why
 * ## What
+  type: Behavioral diagram.
+  
+  Node: start, end, branch, step, iteration.
+
+  Edge: Only arrow which indicates flow.
 * ## How
 
 # Use-case diagram
