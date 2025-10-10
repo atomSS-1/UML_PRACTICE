@@ -49,3 +49,18 @@
 * ## Why
 * ## What
 * ## How
+
+#  Package diagram
+* ## Why
+* ## What
+* ## How
+
+#  Composite structural diagram
+* ## Why
+* ## What
+* ## How
+
+#  Communication diagram
+* ## Why
+* ## What
+* ## How
