@@ -25,13 +25,22 @@
 * ## What
 * ## How
 
-* # State machine diagram
+# State machine diagram
 * ## Why
 * ## What
 * ## How
 
-* 
-* #  Sequence diagram
+# Class diagram
+* ## Why
+* ## What
+* ## How
+
+#  Sequence diagram
+* ## Why
+* ## What
+* ## How
+
+* #  deloyment diagram
 * ## Why
 * ## What
 * ## How
