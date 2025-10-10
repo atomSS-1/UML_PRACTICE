@@ -64,3 +64,9 @@
 * ## Why
 * ## What
 * ## How
+
+#  Timing diagram
+* ## Why
+* ## What
+* ## How
+
