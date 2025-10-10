@@ -40,7 +40,12 @@
 * ## What
 * ## How
 
-* #  deloyment diagram
+#  deloyment diagram
+* ## Why
+* ## What
+* ## How
+
+#  Object diagram
 * ## Why
 * ## What
 * ## How
