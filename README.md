@@ -70,3 +70,14 @@
 * ## What
 * ## How
 
+#  Interaction Overview Diagram
+* ## Why
+* ## What
+* ## How
+
+#  Class Diagram
+* ## Why
+* ## What
+* ## How
+
+
