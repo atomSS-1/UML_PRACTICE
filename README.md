@@ -19,7 +19,9 @@
 * ## Why
 * ## What
 * ## How
-
+   Edge: extend, include
+   Node: character, useCase shape
+  
 # Profile diagram
 * ## Why
 * ## What
@@ -37,7 +39,11 @@
 
 #  Sequence diagram
 * ## Why
+
 * ## What
+
+ Indicates when action prior or post to other action.
+  
 * ## How
 
 #  deloyment diagram
