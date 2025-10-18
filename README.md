@@ -10,19 +10,24 @@
  To see hole algoithmic procedure of the process.
 * ## What
 
+  Node: start, end, branch, step, iteration.
+
+  Edge: Only arrow which indicates flow.
+
 * ## How
 
   type: Behavioral diagram.
   
-  Node: start, end, branch, step, iteration.
 
-  Edge: Only arrow which indicates flow.
 
   <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/b1764233-0338-44ad-b503-6d53d6216ccc" />
 
 
 # Use-case diagram
 * ## Why
+
+To see how users use what system.
+ 
 * ## What
 
 Indicates how user use the system.
