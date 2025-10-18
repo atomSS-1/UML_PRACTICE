@@ -7,7 +7,7 @@
  Try to revese engineer existing project to learn the theroy and get use to it's symbols and protocols.
 # Activity diagram
 * ## Why
- 
+ To see hole algoithmic procedure of the process.
 * ## What
 
 * ## How
@@ -18,6 +18,9 @@
 
   Edge: Only arrow which indicates flow.
 
+  <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/b1764233-0338-44ad-b503-6d53d6216ccc" />
+
+
 # Use-case diagram
 * ## Why
 * ## What
@@ -27,6 +30,9 @@ Indicates how user use the system.
 * ## How
    Edge: extend, include
    Node: character, useCase shape
+
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f242708f-19a9-4283-a8bb-48b46abf6d1e" />
+
   
 # Profile diagram
 * ## Why
