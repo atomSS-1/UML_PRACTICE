@@ -78,6 +78,9 @@ Indicates how user use the system.
 * ## What
 * ## How
 
+  <img width="1024" height="1024" alt="ChatGPT Image 2025년 10월 19일 오후 02_37_30" src="https://github.com/user-attachments/assets/d7715677-bc3f-45aa-a2b9-c971908638f0" />
+
+
 #  Package diagram
 * ## Why
 * ## What
