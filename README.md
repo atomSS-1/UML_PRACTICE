@@ -43,6 +43,8 @@ Indicates how user use the system.
 * ## Why
 * ## What
 * ## How
+<img width="640" height="669" alt="image" src="https://github.com/user-attachments/assets/f45c4836-a45e-4502-8a69-d9403aff5c35" />
+
 
 # State machine diagram
 * ## Why
