@@ -85,6 +85,8 @@ Indicates how user use the system.
 * ## Why
 * ## What
 * ## How
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c8b5794f-50d1-473b-9fc1-899aa661e729" />
+
 
 #  Communication diagram
 * ## Why
