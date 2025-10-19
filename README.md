@@ -80,6 +80,8 @@ Indicates how user use the system.
 * ## Why
 * ## What
 * ## How
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c15fbc4b-9340-406f-8c85-31e2eb8d7aaa" />
+
 
 #  Composite structural diagram
 * ## Why
@@ -102,6 +104,9 @@ Indicates how user use the system.
 * ## Why
 * ## What
 * ## How
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/84cf28c4-a80b-4d8d-ac20-18fe88e66c4b" />
+
 
 #  Class Diagram
 * ## Why
