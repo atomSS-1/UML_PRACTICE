@@ -56,6 +56,9 @@ Indicates how user use the system.
 * ## What
 * ## How
 
+  <img width="1536" height="1024" alt="ChatGPT Image 2025년 10월 19일 오후 02_42_12" src="https://github.com/user-attachments/assets/12a6fd41-112c-4444-8a8b-38f4ee320c16" />
+
+
 #  Sequence diagram
 * ## Why
 
