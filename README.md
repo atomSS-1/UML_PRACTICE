@@ -51,7 +51,7 @@ Indicates how user use the system.
   <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e3a6a7b3-e137-4463-ad2b-84d9c5309b56" />
 
 
-# Class diagram
+# Object diagram
 * ## Why
 * ## What
 * ## How
