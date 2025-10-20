@@ -52,15 +52,6 @@ Indicates how user use the system.
 * ## How
   <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e3a6a7b3-e137-4463-ad2b-84d9c5309b56" />
 
-
-# Object diagram
-* ## Why
-* ## What
-* ## How
-
-
-
-
 #  Sequence diagram
 * ## Why
 
@@ -111,6 +102,8 @@ Indicates how user use the system.
 * ## Why
 * ## What
 * ## How
+  <img width="1580" height="580" alt="image" src="https://github.com/user-attachments/assets/0b04373e-b77d-47ae-951d-82df56208574" />
+
 
 #  Interaction Overview Diagram
 * ## Why
