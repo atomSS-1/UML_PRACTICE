@@ -64,10 +64,13 @@ Indicates how user use the system.
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8dff307c-b608-4ea9-9c82-b984fc627e44" />
 
 
-#  deloyment diagram
+#  Deployment diagram
 * ## Why
 * ## What
 * ## How
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/42f177cd-a4df-4fbc-beb1-7e4a0052c6a6" />
+
 
 #  Object diagram
 * ## Why
