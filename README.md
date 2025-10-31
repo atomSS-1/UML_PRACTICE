@@ -7,7 +7,7 @@
  Try to revese engineer existing project to learn the theroy and get use to it's symbols and protocols.
 # Activity diagram
 * ## Why
- To see hole algoithmic procedure of the process.
+ To see entire algoithmic procedure of the process.
 * ## What
 
   Node: start, end, branch, step, iteration.
